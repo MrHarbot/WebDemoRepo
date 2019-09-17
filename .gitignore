@@ -3,3 +3,7 @@
 ################################################################################
 
 /WebDemoRepoTesti/.vs/WebDemoRepoTesti/v16
+/.vs
+/AspNetDemo2/.vs/AspNetDemo2
+/AspNetDemo2/AspNetDemo2/bin/Debug/netcoreapp2.2
+/AspNetDemo2/AspNetDemo2/obj
